@@ -11,7 +11,7 @@ DATA_FILE_PATH = os.path.join(os.path.dirname(__file__), 'data.json')
 
 # Task 2: MongoDB Atlas Configuration
 # Replace with your secure MongoDB Atlas connection string and database name
-MONGO_URI = "mongodb+srv://chinmayvpardeshi_db_user:chinmay@tutedude.xejh12o.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI = 
 DB_NAME = "devops_assignment_db"
 COLLECTION_NAME = "submissions"
 
