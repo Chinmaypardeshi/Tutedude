@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "module": "DevOps Pipeline",
+    "status": "Active",
+    "description": "Automated deployment verification route."
+  },
+  {
+    "id": 2,
+    "module": "Database Integration",
+    "status": "Connected",
+    "description": "MongoDB Atlas cloud cluster telemetry."
+  }
+]
